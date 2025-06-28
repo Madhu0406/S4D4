@@ -1,0 +1,4 @@
+com\example\controller\BookControllerTest.class
+com\example\service\PriceFacadeTest.class
+com\example\service\UserServiceTest.class
+com\example\integration\OrderIntegrationTest.class
