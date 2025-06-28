@@ -16,7 +16,7 @@ public class Order {
         this.product = product;
     }
 
-    // Getters and setters
+
     public Long getId() {
         return id;
     }
